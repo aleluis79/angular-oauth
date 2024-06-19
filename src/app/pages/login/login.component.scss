@@ -1,0 +1,10 @@
+a {
+  padding: 8px;
+  text-decoration: none;
+  background-color: antiquewhite;
+  color: #000;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

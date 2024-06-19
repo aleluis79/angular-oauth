@@ -1,0 +1,27 @@
+.links {
+  display: flex;
+  gap: 10px;
+  background-color: antiquewhite;
+}
+
+a {
+  padding: 8px;
+  text-decoration: none;
+  color: #000;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.token {
+  border: solid 1px green;
+  padding: 10px;
+  margin: 40px
+}
+
+.container {
+  margin: 40px
+}
+
+
